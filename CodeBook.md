@@ -23,7 +23,7 @@ tBodyAccJerk-mean()-X      : num
 tBodyAccJerk-mean()-Y      : num
 tBodyAccJerk-mean()-Z      : num
 tBodyAccJerk-std()-X       : num
-tBodyAccJerk-std()-Y       : num  
+tBodyAccJerk-std()-Y       : num
 tBodyAccJerk-std()-Z       : num  
 tBodyGyro-mean()-X         : num  
 tBodyGyro-mean()-Y         : num
