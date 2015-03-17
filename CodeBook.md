@@ -7,10 +7,10 @@ Only the mean and standard deviation for each measurement are use in this projec
 all_data
 
 'data.frame':	10299 obs. of  68 variables:
-tBodyAcc-mean()-X          : num
-tBodyAcc-mean()-Y          : num
-tBodyAcc-mean()-Z          : num
-tBodyAcc-std()-X           : num
+tBodyAcc-mean()-X          : num 
+tBodyAcc-mean()-Y          : num 
+tBodyAcc-mean()-Z          : num 
+tBodyAcc-std()-X           : num 
 tBodyAcc-std()-Y           : num
 tBodyAcc-std()-Z           : num
 tGravityAcc-mean()-X       : num
@@ -31,7 +31,7 @@ tBodyGyro-mean()-Z         : num
 tBodyGyro-std()-X          : num
 tBodyGyro-std()-Y          : num
 tBodyGyro-std()-Z          : num  
-tBodyGyroJerk-mean()-X     : num  
+tBodyGyroJerk-mean()-X     : num 
 tBodyGyroJerk-mean()-Y     : num  
 tBodyGyroJerk-mean()-Z     : num 
 tBodyGyroJerk-std()-X      : num 
