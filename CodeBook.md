@@ -24,12 +24,12 @@ tBodyAccJerk-mean()-Y      : num
 tBodyAccJerk-mean()-Z      : num
 tBodyAccJerk-std()-X       : num
 tBodyAccJerk-std()-Y       : num
-tBodyAccJerk-std()-Z       : num  
-tBodyGyro-mean()-X         : num  
+tBodyAccJerk-std()-Z       : num
+tBodyGyro-mean()-X         : num
 tBodyGyro-mean()-Y         : num
-tBodyGyro-mean()-Z         : num 
-tBodyGyro-std()-X          : num 
-tBodyGyro-std()-Y          : num  
+tBodyGyro-mean()-Z         : num
+tBodyGyro-std()-X          : num
+tBodyGyro-std()-Y          : num
 tBodyGyro-std()-Z          : num  
 tBodyGyroJerk-mean()-X     : num  
 tBodyGyroJerk-mean()-Y     : num  
