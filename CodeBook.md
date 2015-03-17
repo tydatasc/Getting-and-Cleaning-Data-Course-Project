@@ -6,8 +6,7 @@ Only the mean and standard deviation for each measurement are use in this projec
 
 all_data
 
-'data.frame':	10299 obs. of  68 variables:
-tBodyAcc-mean()-X          : num 
+'data.frame':	10299 obs. of  68 variables:tBodyAcc-mean()-X          : num
 tBodyAcc-mean()-Y          : num 
 tBodyAcc-mean()-Z          : num 
 tBodyAcc-std()-X           : num 
